@@ -1,4 +1,4 @@
-**m-e-r-n-starter-template**      
+**m-e-r-n-starter-template**     
 
 This is mongodb,express,node starting template using mongoose. Advanced Template.
 
